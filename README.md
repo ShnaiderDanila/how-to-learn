@@ -1,11 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Проект:+"How+to+learn")](https://git.io/typing-svg)
 Создан в рамках учебы в [Яндекс.Практикум](https://practicum.yandex.ru/) на факультете ["Веб-разработчик"](https://practicum.yandex.ru/web/)
 
-## Описание проекта
+## Описание проекта:
 "How to learn" - это типовой однастраничный сайт про методики обучения. Сайт создан по методологии BEM с файловой структурой Nested BEM.
 [Ссылка на проект - GitHub Pages](https://skillbox.ru/media/ "Сайт проекта How to Learn") 
 
-## Функционал
+## Функционал:
 - Анимация и трансформация элементов страницы посредством CSS
 - Секция video с встроенными в страницу видео из Youtube
 
