@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Проект:+"How+to+learn")](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Проект:+"How+to+learn")](https://git.io/typing-svg)
 Создан в рамках учебы в Яндекс.Практикум на факультете "Веб-разработчик".
 
 ## Описание проекта
@@ -11,6 +11,7 @@
 
 ## Используемые технологии:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 С применением:
 * BEM Methodology;
 * Git;
@@ -29,8 +30,7 @@
 git clone https://github.com/Shnd3r/how-to-learn.git
 ```
 2. Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц.
-ИЛИ
-Откройте файл index.html.
+ИЛИ Просто откройте файл index.html.
 
 ## Брифы:
 - [Бриф №1](https://drive.google.com/file/d/162SvWCAU8Z8Zkxu70alZNEL_tIMu6x1-/view?usp=drive_link)
