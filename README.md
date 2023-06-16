@@ -3,7 +3,7 @@
 
 ## Описание проекта
 "How to learn" - это типовой однастраничный сайт про методики обучения. Сайт создан по методологии BEM с файловой структурой Nested BEM.
-[Ссылка на проект](https://skillbox.ru/media/ "Сайт проекта How to Learn") - GitHub Pages
+[Ссылка на проект](https://skillbox.ru/media/ "Сайт проекта How to Learn - GitHub Pages") 
 
 ## Функционал
 - Анимация и трансформация элементов страницы посредством CSS
@@ -30,7 +30,7 @@
 git clone https://github.com/Shnd3r/how-to-learn.git
 ```
 2. Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц.
-ИЛИ Просто откройте файл index.html.
+ИЛИ просто откройте файл index.html.
 
 ## Брифы:
 - [Бриф №1](https://drive.google.com/file/d/162SvWCAU8Z8Zkxu70alZNEL_tIMu6x1-/view?usp=drive_link)
