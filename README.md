@@ -16,7 +16,6 @@
 
 С применением:
 * BEM Methodology;
-* Git;
 * CSS анимации с помощью синтаксиса @keyframes и псевдоклассов;
 * Flexbox;
 * Iframe
