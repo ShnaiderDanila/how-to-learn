@@ -3,6 +3,7 @@
 
 ## Описание проекта:
 "How to learn" - это типовой однастраничный сайт про методики обучения. Сайт создан по методологии BEM с файловой структурой Nested BEM.
+
 [Ссылка на проект - GitHub Pages](https://shnd3r.github.io/how-to-learn/ "Сайт проекта How to learn") 
 
 ## Функционал:
@@ -21,12 +22,11 @@
 * Iframe
 
 ## Инструкция по установке: 
-1. Клонировать репозиторий:
+**Клонировать репозиторий**
 ```
 git clone https://github.com/Shnd3r/how-to-learn.git
 ```
-2. Запустить локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц.
-ИЛИ просто открыть файл index.html.
+**Запустить локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц (Например: используя расширение Live Server).**
 
 ## Планы по доработке проекта:
 1. Сборка проекта посредством Webpack;
@@ -41,6 +41,11 @@ git clone https://github.com/Shnd3r/how-to-learn.git
 - [Чеклист №1](https://drive.google.com/file/d/1kXIS5-l7i4TRKT9UITCdAQ4pXx79C3zw/view?usp=drive_link)
 - [Чеклист №2](https://drive.google.com/file/d/1IRQC0hDJTPFk0n9r8IAoE_BMRxlfcyg_/view?usp=drive_link)
   
-2023© Шнайдер Данила
+## Автор
+
+**Данила Шнайдер**
+
+- E-mail: [d.shnder@gmail.com](mailto:d.shnder@gmail.com)
+- Telegram: [@shnd3r](https://t.me/shnd3r)
 
 
