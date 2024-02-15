@@ -48,6 +48,6 @@ git clone https://github.com/Shnd3r/how-to-learn.git
 **Данила Шнайдер**
 
 - E-mail: [d.shnder@gmail.com](mailto:d.shnder@gmail.com)
-- Telegram: [@shnd3r](https://t.me/shnd3r)
+- Telegram: [@shnaider_danila](https://t.me/shnaider_danila)
 
 
